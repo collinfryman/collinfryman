@@ -15,8 +15,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 | Skill                                           | Associated Project         |
 |-----------------------------------------------  |----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/collinfryman/SIEM-Lab/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Python Programming                              | 
+| Python Programming                              | <a href="https://github.com/collinfryman/LibraryDatabaseSystem">Library Database System
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
