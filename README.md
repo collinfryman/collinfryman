@@ -48,7 +48,7 @@ My journey from Navy aviation systems to enterprise IT support has given me a st
 
 ## 💼 Experience
 
-**IT Support Agent – Level I** | TurboDebt *(Nov 2024 – Present | Remote)*
+**IT Support Agent – Level I** | TurboDebt *(Nov 2024 – Apr 2026 | Remote)*
 - Deliver Tier 1–2 technical support across a fully remote environment using **Freshservice** (incident management, SLA tracking)
 - Manage IAM tasks including account provisioning, password resets, and permissions across **Microsoft 365** and **Google Workspace**
 - Monitor and maintain endpoint health using **NinjaOne RMM** and **Netskope**, enforcing least-privilege and compliance standards
@@ -94,6 +94,5 @@ Columbia Southern University — Network Security, Ethical Hacking Fundamentals,
 ## 🔬 Projects
 
 - [Wazuh SIEM Home Lab](https://github.com/collinfryman) — Deployed Wazuh SIEM on Kali Linux (VirtualBox), monitored system/network/security logs, simulated brute force attacks, and built a custom dashboard
-- [Detection Lab](https://github.com/collinfryman/SIEM-Lab/blob/main/README.md)
 - [Library Database System](https://github.com/collinfryman/LibraryDatabaseSystem) — Python console app for managing library borrowing records, fee calculation, and search
 
